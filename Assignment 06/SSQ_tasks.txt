@@ -1,0 +1,39 @@
+The assignment consists of 3 parts :
+_____________________________________________________________
+part - 1 :
+
+Find out the following performance metrics for FIFO,LIFO
+and SJF :
+
+n = 6;
+pa = 0.2 ;
+ps = 0.3 ;
+
+FIFO,LIFO,SJF :
+i) Average Delay, E[D];
+ii) Expected Number of Customer in queue, E[Q];
+iii) Server Utilization, E[U];
+
+Total 9 outputs ;
+
+part -2 :
+input : 
+pa = 0.2 and ps = 0.3 and n = 5,10,15,20,25,30,35,40;
+
+output :
+find the graphs of : E[D],E[Q],E[U]; for FIFO ;
+find the graphs of : E[D],E[Q],E[U]; for LIFO ;
+find the graphs of : E[D],E[Q],E[U]; for SJF ;
+Total : 3 * 3 graphs = 9 graphs  or 3 graphs ;
+
+part-3 :
+Decision : FIFO/LIFO or SJF -> Best ;
+- graph/result ;
+
+Submission Deadline : 12/10/2021 ; 1.00 AM
+VIVA : 12/10/2021 ; 11.30 AM ;
+I will upload the VIVA schedule ; 
+
+
+
+ 
